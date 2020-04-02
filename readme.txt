@@ -17,3 +17,4 @@ git add .
 添加merge  --no-ff
 
 stash功能
+stash2
