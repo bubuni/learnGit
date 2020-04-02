@@ -15,3 +15,5 @@ git commit -m "add merge"
 git add .
 
 添加merge  --no-ff
+
+stash功能
