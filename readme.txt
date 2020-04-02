@@ -9,3 +9,4 @@ git cherry-pick 功能
 creating a new branch
 
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
