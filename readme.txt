@@ -18,3 +18,5 @@ git add .
 
 stash功能
 stash2
+
+cherry-pick
