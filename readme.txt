@@ -13,3 +13,5 @@ Creating a new branch is quick AND simple.
 git commit -m "add merge"
 
 git add .
+
+添加merge  --no-ff
