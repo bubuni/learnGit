@@ -7,3 +7,5 @@ git stash功能
 git cherry-pick 功能
 
 creating a new branch
+
+git commit -m "add merge"
